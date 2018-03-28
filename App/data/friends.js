@@ -33,4 +33,4 @@ var friendData = [
   }
 ];
 
-module.exports = friends;
+module.exports = friendData;
